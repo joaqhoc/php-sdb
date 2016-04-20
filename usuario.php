@@ -1,6 +1,6 @@
 <html>
    <head>
-      <title>Usuario | PHP - SDB</title>
+      <title>Usuario | PHP-SDB</title>
    </head>
    <body align="center">
 <?php
