@@ -4,7 +4,8 @@
    </head>
    <body align="center">
 <?php
-	/* Variable usu = user - variable con = password */
+
+   /* Variable usu = user - variable con = password */
    $usu = $_GET['user'];
    $con = $_GET['password'];
    
@@ -18,8 +19,8 @@
    $usu3 = "phpsdb";
    $con3 = "sdb";
    	
-	/* Variable Si la contraseña o usuario son incorrectos */
-   $error_notif = "¡Contraseña o usuario incorrecto!" . '<a href="'.$_SERVER['HTTP_REFERER'].'">Volver</a>';
+	/* Variable Si la contraseÃ±a o usuario son incorrectos */
+   $error_notif = "Â¡ContraseÃ±a o usuario incorrecto!" . '<a href="'.$_SERVER['HTTP_REFERER'].'">Volver</a>';
 
    	/* El usuario 1 es correcto */
    switch ($usu) {
