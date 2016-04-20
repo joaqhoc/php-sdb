@@ -1,5 +1,4 @@
-# php-sdb
-Prueba de Login sin Base de Datos en PHP
+#Prueba de Login sin Base de Datos en PHP
 ======================================================
 
 Contacto: soportechispita@gmail.com
